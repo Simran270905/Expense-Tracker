@@ -1,0 +1,5 @@
+[build]
+  base = "Frontend"
+  command = "npm run build"
+  publish = "dist"
+git add netlify.toml
